@@ -1,0 +1,30 @@
+.my-skills {
+  text-align: center;
+
+  .my-skills__list {
+    padding: 15px 10px 10px;
+  }
+
+  .my-skills__about {
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  .skills {
+    justify-content: center;
+
+    .img-skill {
+      background-image: url('https://cdn.worldvectorlogo.com/logos/react.svg');
+      background-repeat: no-repeat;
+      background-size: 50px;
+      margin: 0 auto;
+      width: 50px;
+      height: 50px;
+    }
+  }
+  .skills p {
+    padding: 15px 10px;
+  }
+}
+

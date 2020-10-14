@@ -1,0 +1,41 @@
+.my-works{
+  text-align: center;
+
+  .my-works__list {
+    padding: 15px 10px 10px;
+  }
+
+  .my-works__about {
+    display: flex;
+    justify-content: space-between;
+
+    .work {
+
+        .img-work {
+          position: relative;
+          background-image: url('https://lh3.googleusercontent.com/proxy/WYMnY2Dnvej_bfQtlnEKoK_nIw-9FhI8o68Kp054O-4pu5boZ7ng4zw9TchaVvDeYcojVwYi5WLBiZpspjH7fGF6IdeM1-YDr7nwNUNOJpUgXATJWCAdTi6pXBujJxKyQCEwxEFB5jmOxrWaz9de3ebmwXkwJd4391GR-nRdOOHUQ71dWenJihYs1iujJk4IX5FX4LH1Sl-sVpX2yFnx4AFqxpHuB9ZTDy7rQKSsfSrr7nbHT7Ce2piztMXl8mH3rtwzjuHL45_UfYxh5cMzMDQLX43LwRPbvfT-mm3u0oP6Fwnwieeo');
+          background-repeat: no-repeat;
+          background-size: 300px;
+          margin: 0 auto;
+          height: 300px;
+          width: 300px;
+
+          .work__btn {
+            position: absolute;
+            top:135px;
+            left: 125px;
+            width: 50px;
+            height: 30px;
+            border-radius: 5px;
+            background-color: #f80000;
+          }
+        }
+
+
+    }
+  }
+
+  .work p {
+    padding: 15px 10px;
+  }
+}

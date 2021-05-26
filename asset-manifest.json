@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/edupanov/Portfolio/static/css/main.b9e0a0c3.chunk.css",
-    "main.js": "/edupanov/Portfolio/static/js/main.3598c9bb.chunk.js",
-    "main.js.map": "/edupanov/Portfolio/static/js/main.3598c9bb.chunk.js.map",
+    "main.css": "/edupanov/Portfolio/static/css/main.53b24579.chunk.css",
+    "main.js": "/edupanov/Portfolio/static/js/main.c340c50c.chunk.js",
+    "main.js.map": "/edupanov/Portfolio/static/js/main.c340c50c.chunk.js.map",
     "runtime-main.js": "/edupanov/Portfolio/static/js/runtime-main.fece65e2.js",
     "runtime-main.js.map": "/edupanov/Portfolio/static/js/runtime-main.fece65e2.js.map",
     "static/js/2.a235b247.chunk.js": "/edupanov/Portfolio/static/js/2.a235b247.chunk.js",
@@ -10,26 +10,26 @@
     "static/js/3.0e320010.chunk.js": "/edupanov/Portfolio/static/js/3.0e320010.chunk.js",
     "static/js/3.0e320010.chunk.js.map": "/edupanov/Portfolio/static/js/3.0e320010.chunk.js.map",
     "index.html": "/edupanov/Portfolio/index.html",
-    "static/css/main.b9e0a0c3.chunk.css.map": "/edupanov/Portfolio/static/css/main.b9e0a0c3.chunk.css.map",
+    "static/css/main.53b24579.chunk.css.map": "/edupanov/Portfolio/static/css/main.53b24579.chunk.css.map",
     "static/js/2.a235b247.chunk.js.LICENSE.txt": "/edupanov/Portfolio/static/js/2.a235b247.chunk.js.LICENSE.txt",
     "static/media/Avatar.module.scss": "/edupanov/Portfolio/static/media/avatar.871c03c5.jpg",
     "static/media/bg.9f4d5a7f.jpg": "/edupanov/Portfolio/static/media/bg.9f4d5a7f.jpg",
-    "static/media/css.1a81e060.svg": "/edupanov/Portfolio/static/media/css.1a81e060.svg",
-    "static/media/git.4fc2239b.svg": "/edupanov/Portfolio/static/media/git.4fc2239b.svg",
-    "static/media/html.b26a480f.svg": "/edupanov/Portfolio/static/media/html.b26a480f.svg",
-    "static/media/jest.2b515a03.svg": "/edupanov/Portfolio/static/media/jest.2b515a03.svg",
-    "static/media/js.3e5ce96f.svg": "/edupanov/Portfolio/static/media/js.3e5ce96f.svg",
+    "static/media/css.274dfbda.svg": "/edupanov/Portfolio/static/media/css.274dfbda.svg",
+    "static/media/git.e308aef3.svg": "/edupanov/Portfolio/static/media/git.e308aef3.svg",
+    "static/media/html.50ff4e65.svg": "/edupanov/Portfolio/static/media/html.50ff4e65.svg",
+    "static/media/jest.b5ef5c3a.svg": "/edupanov/Portfolio/static/media/jest.b5ef5c3a.svg",
+    "static/media/js.b0e4ba24.svg": "/edupanov/Portfolio/static/media/js.b0e4ba24.svg",
     "static/media/new CV.092c4cb4.pdf": "/edupanov/Portfolio/static/media/new CV.092c4cb4.pdf",
-    "static/media/react.cff44ab6.svg": "/edupanov/Portfolio/static/media/react.cff44ab6.svg",
-    "static/media/redux.3702c02b.svg": "/edupanov/Portfolio/static/media/redux.3702c02b.svg",
+    "static/media/react.6dd4f04c.svg": "/edupanov/Portfolio/static/media/react.6dd4f04c.svg",
+    "static/media/redux.d9bfbd61.svg": "/edupanov/Portfolio/static/media/redux.d9bfbd61.svg",
     "static/media/rest-api.9a581b65.svg": "/edupanov/Portfolio/static/media/rest-api.9a581b65.svg",
-    "static/media/storybook.f8d4a0d7.svg": "/edupanov/Portfolio/static/media/storybook.f8d4a0d7.svg",
-    "static/media/typescriptlang-icon.c39869a7.svg": "/edupanov/Portfolio/static/media/typescriptlang-icon.c39869a7.svg"
+    "static/media/storybook.3dc61186.svg": "/edupanov/Portfolio/static/media/storybook.3dc61186.svg",
+    "static/media/typescriptlang-icon.05a94f10.svg": "/edupanov/Portfolio/static/media/typescriptlang-icon.05a94f10.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fece65e2.js",
     "static/js/2.a235b247.chunk.js",
-    "static/css/main.b9e0a0c3.chunk.css",
-    "static/js/main.3598c9bb.chunk.js"
+    "static/css/main.53b24579.chunk.css",
+    "static/js/main.c340c50c.chunk.js"
   ]
 }

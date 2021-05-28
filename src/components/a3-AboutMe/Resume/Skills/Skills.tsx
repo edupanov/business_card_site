@@ -26,9 +26,8 @@ const skills: Array<SkillsType> = [
 	{id: v1(), skill: 'REST API', icon: rest},
 	{id: v1(), skill: 'HTML5', icon: html},
 	{id: v1(), skill: 'CSS & preprocessing', icon: css},
-	{id: v1(), skill: 'TDD - Jest', icon: jest},
 	{id: v1(), skill: 'Storybook', icon: story},
-	{id: v1(), skill: 'Github', icon: git},
+	{id: v1(), skill: 'Git', icon: git},
 ]
 
 export const Skills = () => {

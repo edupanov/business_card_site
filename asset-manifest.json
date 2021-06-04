@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/business_card_site/static/css/main.721ebbe2.chunk.css",
-    "main.js": "/business_card_site/static/js/main.afffa6ef.chunk.js",
-    "main.js.map": "/business_card_site/static/js/main.afffa6ef.chunk.js.map",
+    "main.js": "/business_card_site/static/js/main.5539b5f1.chunk.js",
+    "main.js.map": "/business_card_site/static/js/main.5539b5f1.chunk.js.map",
     "runtime-main.js": "/business_card_site/static/js/runtime-main.2edf07e9.js",
     "runtime-main.js.map": "/business_card_site/static/js/runtime-main.2edf07e9.js.map",
     "static/js/2.a235b247.chunk.js": "/business_card_site/static/js/2.a235b247.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.2edf07e9.js",
     "static/js/2.a235b247.chunk.js",
     "static/css/main.721ebbe2.chunk.css",
-    "static/js/main.afffa6ef.chunk.js"
+    "static/js/main.5539b5f1.chunk.js"
   ]
 }

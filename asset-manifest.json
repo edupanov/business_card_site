@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/business_card_site/static/css/main.721ebbe2.chunk.css",
-    "main.js": "/business_card_site/static/js/main.5539b5f1.chunk.js",
-    "main.js.map": "/business_card_site/static/js/main.5539b5f1.chunk.js.map",
+    "main.css": "/business_card_site/static/css/main.1c701ac5.chunk.css",
+    "main.js": "/business_card_site/static/js/main.0c187dca.chunk.js",
+    "main.js.map": "/business_card_site/static/js/main.0c187dca.chunk.js.map",
     "runtime-main.js": "/business_card_site/static/js/runtime-main.2edf07e9.js",
     "runtime-main.js.map": "/business_card_site/static/js/runtime-main.2edf07e9.js.map",
     "static/js/2.a235b247.chunk.js": "/business_card_site/static/js/2.a235b247.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0e320010.chunk.js": "/business_card_site/static/js/3.0e320010.chunk.js",
     "static/js/3.0e320010.chunk.js.map": "/business_card_site/static/js/3.0e320010.chunk.js.map",
     "index.html": "/business_card_site/index.html",
-    "static/css/main.721ebbe2.chunk.css.map": "/business_card_site/static/css/main.721ebbe2.chunk.css.map",
+    "static/css/main.1c701ac5.chunk.css.map": "/business_card_site/static/css/main.1c701ac5.chunk.css.map",
     "static/js/2.a235b247.chunk.js.LICENSE.txt": "/business_card_site/static/js/2.a235b247.chunk.js.LICENSE.txt",
     "static/media/Avatar.module.scss": "/business_card_site/static/media/avatar.871c03c5.jpg",
     "static/media/bg.9f4d5a7f.jpg": "/business_card_site/static/media/bg.9f4d5a7f.jpg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.2edf07e9.js",
     "static/js/2.a235b247.chunk.js",
-    "static/css/main.721ebbe2.chunk.css",
-    "static/js/main.5539b5f1.chunk.js"
+    "static/css/main.1c701ac5.chunk.css",
+    "static/js/main.0c187dca.chunk.js"
   ]
 }

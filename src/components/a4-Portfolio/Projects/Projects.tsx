@@ -12,10 +12,13 @@ type ProjectType = {
 	style?: CSSProperties | undefined
 }
 const project = [
-	{id: v1(), heading: 'Singolo', demo: 'https://edupanov.github.io/singolo/', github: 'https://github.com/edupanov/singolo', image: bg},
-	{id: v1(), heading: 'English for kids', demo: 'https://edupanov.github.io/English_for_kids/', github: 'https://github.com/edupanov/English_for_kids', image: bg},
-	{id: v1(), heading: 'Exchange', demo: 'https://edupanov.github.io/WoWExchange.github.io/', github: 'https://github.com/edupanov/WoWExchange.github.io', image: bg},
+	{id: v1(), heading: 'code examples', demo: '', github: 'https://github.com/edupanov/codeExamples/tree/main', image: bg},
 ]
+// const project = [
+// 	{id: v1(), heading: 'Singolo', demo: 'https://edupanov.github.io/singolo/', github: 'https://github.com/edupanov/singolo', image: bg},
+// 	{id: v1(), heading: 'English for kids', demo: 'https://edupanov.github.io/English_for_kids/', github: 'https://github.com/edupanov/English_for_kids', image: bg},
+// 	{id: v1(), heading: 'Exchange', demo: 'https://edupanov.github.io/WoWExchange.github.io/', github: 'https://github.com/edupanov/WoWExchange.github.io', image: bg},
+// ]
 
 
 export const Projects: FC<ProjectType> = ({title, content, style}) => {
@@ -27,10 +30,12 @@ export const Projects: FC<ProjectType> = ({title, content, style}) => {
 					<img src={project.image} className={s.projectImage}/>
 					<div className={s.details}>
 						<span className={s.title}>{project.heading}</span>
-						<span className={s.info}>
-							<FontAwesomeIcon icon={faEye} className={s.icon} />
+						{project.demo ?
+							<span className={s.info}>
+							<FontAwesomeIcon icon={faEye} className={s.icon}/>
 							<a href={project.demo} className={s.link} target="_blank">Demo</a>
 						</span>
+							: null}
 						<span className={s.info}>
 							<FontAwesomeIcon icon={faGithub} className={s.icon}/>
 							<a href={project.github} className={s.link} target="_blank">Github</a></span>

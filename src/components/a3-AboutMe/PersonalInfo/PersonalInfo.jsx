@@ -12,7 +12,7 @@ const personalInfo = [
 	{title: 'Address: ', content: 'Gomel, Belarus'},
 	{title: 'Email: ', content: 'edupanov@gmail.com'},
 	{title: 'Phone: ', content: '+375 29 696 25 74'},
-	{title: 'Telegram: ', content: '@dev_gomel'},
+	{title: 'Telegram: ', content: '@front_dev_gomel'},
 ]
 
 export const PersonalInfo = () => {
@@ -31,11 +31,7 @@ export const PersonalInfo = () => {
 					<h4 className={s.personalInfoHeading}>Personal Info</h4>
 				</div>
 				<div className={s.personalDesc}>
-					Hello, I am a person who has a strong passion for programming.
-					I have experience in creating SPA with React/Redux/TypeScript.
-					Now I am improving my skills in this direction and expanding them with new technologies.
-					I'm planning to study Node.js because my next focus is to become a Full-Stack Developer.
-					And also I have interest to learn React Native. I spend my leisure time on Codewars or speaking with native English speakers.
+					From my experience I know very well what time means and how much it costs. Therefore, I am always focused on achieving the result within the agreed time frame. I'd like to find great team, where I will be able to realize my potential and apply my skills. I spend my free time attending online meetups, taking online courses, and improving my technical skills. I believe that being proactive is a key to success. I'm currently the founder of an existing family business
 					<p className={s.subPersonalDesc}>Ready to consider project work and full-time employment. </p>
 				</div>
 				<div className={s.personalInfoInner}>

@@ -7,7 +7,7 @@ import {faGithub, faTelegramPlane} from '@fortawesome/free-brands-svg-icons';
 
 const contact = [
 	{title: 'phone', text: '+375 29 696 25 74', icon: faPhoneAlt},
-	{title: 'telegram', text: '@dev_gomel', icon: faTelegramPlane},
+	{title: 'telegram', text: '@front_dev_gomel', icon: faTelegramPlane},
 	{title: 'github', text: 'Go to github', icon: faGithub},
 	{title: 'address', text: 'Gomel, Belarus', icon: faMapMarkedAlt},
 ]

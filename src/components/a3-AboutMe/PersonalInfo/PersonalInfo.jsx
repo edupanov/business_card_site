@@ -2,7 +2,7 @@ import s from './PersonalInfo.module.scss';
 import React from 'react';
 import {faUser} from '@fortawesome/free-solid-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
-import MyPDF from './cv/new CV.pdf';
+import MyPDF from './cv/Egor Dupanov CV.pdf';
 
 const personalInfo = [
 	{title: 'First Name: ', content: 'Egor'},
